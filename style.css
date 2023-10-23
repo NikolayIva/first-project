@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+.header-div {
+    background-color: bisque;
+}
+
+.first-h1 {
+    color: darkgreen;
+}
+
+.header-p {
+    color: blueviolet;
+    font-size: 10px;
+}
